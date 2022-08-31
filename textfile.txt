@@ -1,3 +1,5 @@
 This is my first text file.
 This line is included in the second commit.
 This line is included in the third commit.
+Project completed
+
